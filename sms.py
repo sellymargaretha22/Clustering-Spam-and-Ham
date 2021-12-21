@@ -1,11 +1,3 @@
-'''
-Group : Avocado
-Nama Anggota Group :
-- Vivian Davina Hendrawan       19.K1.0011
-- Selly Margaretha Sudiyandi    19.K1.0046
-- Ninda Setyowati               19.K1.0059
-'''
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
